@@ -1,0 +1,14 @@
+{
+  "name": "polite-fetch",
+  "version": "1.0.0",
+  "description": "Fetch the web like a guest: robots.txt, per-host pacing, shared-infrastructure queues and back-off on challenges.",
+  "license": "MIT",
+  "type": "module",
+  "exports": "./polite-fetch.mjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
